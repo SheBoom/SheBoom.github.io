@@ -1,0 +1,23 @@
+/* css styles */
+
+.navbar-logo {
+  max-height: 50px;
+}
+
+.float-right {
+  width: 50%;
+  float: right;
+  margin: 1em 0 1em 1em;
+  text-align: right;
+}
+
+.float-left {
+  width: 50%;
+  float: left;
+  margin: 1em 1em 1em 0;
+  text-align: left;
+}
+
+.float-right img, .float-left img {
+  width: 100%;
+}

@@ -1,0 +1,25 @@
+---
+listing:
+  contents: posts
+  date-format: iso
+  sort: "date desc"
+  type: default
+  max-items: 3
+  image-placeholder: "images/logo.png"
+  categories: false
+  sort-ui: false
+  filter-ui: false
+---
+
+Welcome to SheBoom, reputedly Europe’s largest women’s drumming ensemble based in Glasgow, Scotland. SheBoom is an unforgettably dynamic percussion band playing a uniquely infectious mix of afro-brazilian, samba, african, latin, celtic and european rhythms.
+
+![](images/logo-wide.png){fig-alt="SheBoom logo"}
+
+
+## Join Us
+
+To join our waiting list please email info@sheboom.co.uk with the subject “JOIN”.
+
+
+## Recent Posts
+
