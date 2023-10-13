@@ -12,18 +12,22 @@ website:
   open-graph: true
   description: "Welcome to SheBoom, reputedly Europe’s largest women’s drumming ensemble based in Glasgow, Scotland. SheBoom is an unforgettably dynamic percussion band playing a uniquely infectious mix of afro-brazilian, samba, african, latin, celtic and european rhythms."
   navbar:
-    logo: /images/logo.png
+    logo: /images/logo_black.png
     logo-alt: "A purple butterfly with a face pattern"
     right:
       - text: About
         menu: 
           - about.qmd
+          - herstory.qmd
+          - media.qmd
       - icon: facebook
         href: https://www.facebook.com/SheBoomDrums/
 format:
   html:
-    theme: slate
-    css: styles.css
+    theme:
+      light: [flatly, include/light.scss]
+      dark: [darkly, include/dark.scss]
+    css: include/styles.css
 
 
 
